@@ -5,6 +5,9 @@
 This project allows the user to visualize multiple sorting algorithms like Merge Sort, Quick Sort, Heap Sort, Bubble Sort.
 (Special Thanks to Clément Mihailescu for the project inspiration).
 
+The project has been deployed on https://sanchitdeora.github.io/sorting-algorithms-visualizer/
+
+
 ## `npm start`
 
 Runs the app in the development mode.<br />
